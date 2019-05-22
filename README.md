@@ -1,2 +1,2 @@
-# chain-of-responsibility
-Refactoring Workshop into Chain of Responsibility
+# refactoring-jbcnconf
+Refactoring done during the workshops at JBCNConf in Barcelona
