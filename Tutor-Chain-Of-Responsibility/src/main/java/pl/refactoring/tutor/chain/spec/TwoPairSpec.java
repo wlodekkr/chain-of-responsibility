@@ -6,7 +6,7 @@ import pl.refactoring.tutor.chain.RANKING;
 import static pl.refactoring.tutor.chain.RANKING.TWO_PAIRS;
 
 /**
- * Corypight (c) 2018 IT Train Wlodzimierz Krakowski (www.refactoring.pl)
+ * Copyrights (c) 2018 IT Train Wlodzimierz Krakowski (www.refactoring.pl)
  *
  * This code is exclusive property of Wlodek Krakowski
  * for usage of attendees of trainings that are conducted by Wlodek Krakowski.

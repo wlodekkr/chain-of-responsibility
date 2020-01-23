@@ -3,7 +3,7 @@ package pl.refactoring.chain.flattened.card;
 import java.util.*;
 
 /**
- * Corypight (c) 2018 IT Train Wlodzimierz Krakowski (www.refactoring.pl)
+ * Copyrights (c) 2018 IT Train Wlodzimierz Krakowski (www.refactoring.pl)
  *
  * This code is exclusive property of Wlodek Krakowski
  * for usage of attendees of trainings that are conducted by Wlodek Krakowski.
